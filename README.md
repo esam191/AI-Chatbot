@@ -1,2 +1,2 @@
 # AI-Chatbot
-Teacher's Assistant Bot
+Teacher's Assistant Bot using RASA framework
